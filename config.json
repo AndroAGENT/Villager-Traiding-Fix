@@ -1,10 +1,9 @@
 {
 	"$schema": "https://raw.githubusercontent.com/Bedrock-OSS/regolith-schemas/main/config/v1.4.json",
-	"author": "Your name",
-	"name": "Project name",
+	"author": "AndroAGENT",
+	"name": "Villager Discount Fix",
 	"packs": {
-		"behaviorPack": "./packs/BP",
-		"resourcePack": "./packs/RP"
+		"behaviorPack": "./packs/BP"
 	},
 	"regolith": {
 		"dataPath": "./packs/data",
